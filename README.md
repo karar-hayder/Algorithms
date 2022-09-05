@@ -2,16 +2,15 @@
 
 ## Some Algorithms I learn along the way
 
-alogrithms are important not only for job interviews bot to open your mind and develop your problem solving skills 
-and even making your oun algorithms 
+##### algorithms are important not only for job interviews but to open your mind and develop your problem solving skills and even making your own algorithms 
 
-## Algorithms i want to learn:
-
-### Sorting algorithms:
+## Algorithms I want to learn:
+------
+#### Sorting algorithms:
 - [X] QuickSort
 
-### Search algorithms:
+#### Search algorithms:
 - [ ] Binary Search
 
-### Path Finding algorithms:
+#### Path Finding algorithms:
 - [ ] A* (A Star)
