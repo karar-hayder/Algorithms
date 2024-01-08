@@ -10,7 +10,9 @@
 - [X] QuickSort
 
 ### Search algorithms:
-- [ ] Binary Search
+- [X] Binary Search
 
 ### Path Finding algorithms:
 - [ ] A* (A Star)
+
+### Some kind of recommendation system algorithm
