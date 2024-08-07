@@ -17,6 +17,6 @@
 
 ### Path Finding algorithms
 
-- [ ] A* (A Star)
+- [X] A* (A Star)
 
 ### Some kind of recommendation system algorithm
